@@ -18,6 +18,7 @@ body{
   box-sizing: border-box;
   position: relative;
   padding-top: 30px;
+  color: aliceblue;
 }
 .navbar{
   width: 100%;
